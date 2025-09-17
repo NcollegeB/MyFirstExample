@@ -1,1 +1,1 @@
-[![Build C++](https://github.com/ChicoState/FirstIO/actions/workflows/actions.yml/badge.svg)](https://github.com/ChicoState/FirstIO/actions/workflows/actions.yml)
+[![Build C++](https://github.com/NcollegeB/MyFirstExample/actions/workflows/build.yml/badge.svg)](https://github.com/NcollegeB/MyFirstExample/actions/workflows/build.yml)
